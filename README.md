@@ -1,6 +1,6 @@
 # YouTube MP3 Downloader
 
-Este é um script em Python que permite baixar músicas de vídeos do YouTube e convertê-las para o formato MP3 usando a biblioteca `yt_dlp`.
+Este é um script em Python que permite baixar músicas de vídeos do YouTube usando a biblioteca `yt_dlp`.
 
 ## Funcionalidades
 - Baixa o áudio de vídeos do YouTube na melhor qualidade disponível.
