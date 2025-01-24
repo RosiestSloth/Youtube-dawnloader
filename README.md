@@ -4,7 +4,6 @@ Este é um script em Python que permite baixar músicas de vídeos do YouTube e 
 
 ## Funcionalidades
 - Baixa o áudio de vídeos do YouTube na melhor qualidade disponível.
-- Converte os arquivos de áudio para o formato MP3.
 - Salva os arquivos em uma pasta específica no sistema local.
 
 ## Requisitos
